@@ -5,7 +5,7 @@
   "etapes": [
     {
       "jour": 1,
-      "arrivee": null,
+      "arrivee": "Saint-Gilles",
       "km_original": 22.6,
       "marche": "5h01",
       "pauses_min": 50,
@@ -16,7 +16,7 @@
     },
     {
       "jour": 2,
-      "arrivee": null,
+      "arrivee": "Gallargues",
       "km_original": 29.9,
       "marche": "6h39",
       "pauses_min": 60,
@@ -27,7 +27,7 @@
     },
     {
       "jour": 3,
-      "arrivee": null,
+      "arrivee": "Montpellier",
       "km_original": 35.4,
       "marche": "7h52",
       "pauses_min": 70,
@@ -38,7 +38,7 @@
     },
     {
       "jour": 4,
-      "arrivee": null,
+      "arrivee": "Montarnaud",
       "km_original": 19.2,
       "marche": "4h16",
       "pauses_min": 40,
@@ -49,7 +49,7 @@
     },
     {
       "jour": 5,
-      "arrivee": null,
+      "arrivee": "Saint-Guilhem-le-Désert",
       "km_original": 20,
       "marche": "4h27",
       "pauses_min": 40,
@@ -60,7 +60,7 @@
     },
     {
       "jour": 6,
-      "arrivee": null,
+      "arrivee": "Saint-Jean-de-la-Blaquière",
       "km_original": 25,
       "marche": "5h33",
       "pauses_min": 50,
@@ -71,7 +71,7 @@
     },
     {
       "jour": 7,
-      "arrivee": null,
+      "arrivee": "Lodève",
       "km_original": 13.7,
       "marche": "3h03",
       "pauses_min": 30,
@@ -82,7 +82,7 @@
     },
     {
       "jour": 8,
-      "arrivee": null,
+      "arrivee": "Lunas",
       "km_original": 28,
       "marche": "6h13",
       "pauses_min": 60,
@@ -93,7 +93,7 @@
     },
     {
       "jour": 9,
-      "arrivee": null,
+      "arrivee": "Saint-Gervais-sur-Mare",
       "km_original": 29,
       "marche": "6h27",
       "pauses_min": 60,
@@ -104,7 +104,7 @@
     },
     {
       "jour": 10,
-      "arrivee": null,
+      "arrivee": "Murat-sur-Vèbre",
       "km_original": 27,
       "marche": "6h00",
       "pauses_min": 50,
@@ -115,7 +115,7 @@
     },
     {
       "jour": 11,
-      "arrivee": null,
+      "arrivee": "La Salvetat-sur-Agout",
       "km_original": 21.3,
       "marche": "4h44",
       "pauses_min": 40,
@@ -126,7 +126,7 @@
     },
     {
       "jour": 12,
-      "arrivee": null,
+      "arrivee": "Anglès",
       "km_original": 20,
       "marche": "4h27",
       "pauses_min": 40,
@@ -137,7 +137,7 @@
     },
     {
       "jour": 13,
-      "arrivee": null,
+      "arrivee": "Boissezon",
       "km_original": 21,
       "marche": "4h40",
       "pauses_min": 40,
@@ -148,7 +148,7 @@
     },
     {
       "jour": 14,
-      "arrivee": null,
+      "arrivee": "Viviers-lès-Montagnes",
       "km_original": 27,
       "marche": "6h00",
       "pauses_min": 50,
@@ -159,7 +159,7 @@
     },
     {
       "jour": 15,
-      "arrivee": null,
+      "arrivee": "Revel",
       "km_original": 25.6,
       "marche": "5h41",
       "pauses_min": 50,
@@ -170,7 +170,7 @@
     },
     {
       "jour": 16,
-      "arrivee": null,
+      "arrivee": "Montferrand",
       "km_original": 37,
       "marche": "8h13",
       "pauses_min": 80,
@@ -181,7 +181,7 @@
     },
     {
       "jour": 17,
-      "arrivee": null,
+      "arrivee": "Baziège",
       "km_original": 31,
       "marche": "6h53",
       "pauses_min": 60,
@@ -192,7 +192,7 @@
     },
     {
       "jour": 18,
-      "arrivee": null,
+      "arrivee": "Toulouse",
       "km_original": 36,
       "marche": "8h00",
       "pauses_min": 70,
@@ -203,7 +203,7 @@
     },
     {
       "jour": 19,
-      "arrivee": null,
+      "arrivee": "Léguevin",
       "km_original": 22.5,
       "marche": "5h00",
       "pauses_min": 40,
@@ -214,7 +214,7 @@
     },
     {
       "jour": 20,
-      "arrivee": null,
+      "arrivee": "L’Isle-Jourdain",
       "km_original": 14.7,
       "marche": "3h16",
       "pauses_min": 30,
@@ -225,7 +225,7 @@
     },
     {
       "jour": 21,
-      "arrivee": null,
+      "arrivee": "Gimont",
       "km_original": 24.4,
       "marche": "5h25",
       "pauses_min": 50,
@@ -236,7 +236,7 @@
     },
     {
       "jour": 22,
-      "arrivee": null,
+      "arrivee": "Auch",
       "km_original": 29.3,
       "marche": "6h31",
       "pauses_min": 60,
@@ -247,7 +247,7 @@
     },
     {
       "jour": 23,
-      "arrivee": null,
+      "arrivee": "Montesquiou",
       "km_original": 32.2,
       "marche": "7h09",
       "pauses_min": 70,
@@ -258,7 +258,7 @@
     },
     {
       "jour": 24,
-      "arrivee": null,
+      "arrivee": "Marciac",
       "km_original": 24,
       "marche": "5h20",
       "pauses_min": 50,
@@ -269,7 +269,7 @@
     },
     {
       "jour": 25,
-      "arrivee": null,
+      "arrivee": "Lahitte-Toupière",
       "km_original": 23.1,
       "marche": "5h08",
       "pauses_min": 50,
@@ -280,7 +280,7 @@
     },
     {
       "jour": 26,
-      "arrivee": null,
+      "arrivee": "Morlaàs",
       "km_original": 31.9,
       "marche": "7h05",
       "pauses_min": 70,
@@ -291,7 +291,7 @@
     },
     {
       "jour": 27,
-      "arrivee": null,
+      "arrivee": "Lescar",
       "km_original": 21,
       "marche": "4h40",
       "pauses_min": 40,
@@ -302,7 +302,7 @@
     },
     {
       "jour": 28,
-      "arrivee": null,
+      "arrivee": "Lacommande",
       "km_original": 13.8,
       "marche": "3h04",
       "pauses_min": 30,
